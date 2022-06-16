@@ -44,17 +44,33 @@ _Get this off your phone_
 
 _Get this off your phone_ 
 
-## Engineering Principles I Evangelise
+## Engineering Guidelines I Evangelise
 
-- Keep it simple, stupid
-- Move fast and break things
-- Minimal long-lived environments
-- Testing in production
-- Test all the f\*\*king time
+### Keep it simple, stupid
+
+### Move fast and break things
+
+Good judgment comes from experience; experience can be good and bad.
+
+Engineers need to play and break things, but in a way that is safe. 
+
+How do we make it easy, fast, and safe to explore? The scientific method. When the scientific method is applied to engineering you get [Many more much smaller steps](https://www.youtube.com/watch?v=FLusbyBpugs).
+
+How do you implement this other than TDD? I advocate heavily for [Progressive Delivery](https://launchdarkly.com/blog/what-is-progressive-delivery-all-about/) in this regard. This video from [Dawn Parzych](https://www.youtube.com/watch?v=u8RprFlSJhM) should adequately clarify my stance too :smile:
+
+- [Testing in production/Minimal long-lived environments](https://www.youtube.com/watch?v=b2oota_FhGY)
+
+- [Test all the f\*\*king time](https://www.youtube.com/watch?v=iwUR0kOVNs8)
+
 - [Write tests. Not too many. Mostly integration](https://kentcdodds.com/blog/write-tests)
-- Many more much smaller steps
-- Small teams, rich functions
+
+- 
+
 - Unless it affects compilation, don't block builds for linting
+
+### Small teams, rich functions
+
+Small teams work better.
 
 ## Engineers I Admire
 
