@@ -4,7 +4,9 @@ There's no ego here, I just want us to understand each other, and I figured this
 
 This is a handbook that I hope helps you to understand me. I'm a simple guy so hopefully this won't take long :sweat_smile:
 
-Before we go any further: black lives matter, and love is love.
+Before we go any further though...
+
+![Graphic showing sign that says "Black lives matter", "Women's Rights are Human Rights", "No Human is Illegal", "Science is Real", "News isn't Fake", "You can't grab anyone there", "Love is Love", "Kindness is Everything"](https://images-na.ssl-images-amazon.com/images/I/619pPybybfL.jpg)
 
 ## Me
 
@@ -32,17 +34,30 @@ I have three objectives, i.e. traits I want to inspire and nurture in you if we 
 
 
 
-## Qualities I admire
+### What I Like To Do
 
-- Speaking truth to power
+- **Cause change**
+- Teach
+- Innovate
+- Create
+- Alleviate
+- Collaborate
+- Elevate
+- Motivate
 
-### Nouns
+### Qualities I Admire
 
-_Get this off your phone_
-
-### Adjectives
-
-_Get this off your phone_ 
+- Fearlessness
+- Empathy
+- Artisinality
+- Curiosity
+- Trustworthiness
+- Authenticity/Integrity
+- Honesty
+- Clarity
+- Flexibility
+- Respectfulness (**NOT** reverence)
+- Humility
 
 ## Engineering Guidelines I Evangelise
 
