@@ -154,15 +154,15 @@ Charity completely blew my mind when I first heard her discussing the concept of
 
 ### Kent C. Dodds
 
-## Books
+## Engineering Books
 
-### Top 5
+Admittedly, I don't read many books nowadays since having a small child takes up a lot of my spare time (amongst trying to exercise, spend time with my wife, do household chores, work etc)! However, I want to try and hold myself accountable, and to let you see what I like too, so here's a little section on engineering books :smile: You may be surprised that I don't mention certain books[^3] here...
 
-1. 
-2.
-3.
-4.
-5.
+### Top 3
+
+1. [99 Bottles of OOP](https://sandimetz.com/99bottles)
+2. [A Philosophy of Software Design](https://web.stanford.edu/~ouster/cgi-bin/book.php)
+3. 
 
 ### Currently Reading
 
@@ -180,3 +180,4 @@ Charity completely blew my mind when I first heard her discussing the concept of
 
 [^1]: For my sins I worked for 4 years on a PhD and embarked on a post-doctoral degree, with the aim of becoming a professor someday!
 [^2]: I am very much a nerd when it comes to software engineering and I love listening to podcasts, talks etc. and reading about how we can do it better. The creators of that content are generally people who were involved in designing XP, so I guess that's where this serendipity came from?!
+[^3]: By the way, [Its probably time to stop recommending Clean Code](https://qntm.org/clean). After reading the book a few years ago, I only really took a few practices from it (a lot of the book seems to be an advertisement for his Fitness app :joy:). My main issue though is with Martin's general views of the world. They're diametrically opposed to mine, and (in my opinion) are harmful in a general social sense. You can read more about it [here](https://blog.wesleyac.com/posts/robert-martin).
