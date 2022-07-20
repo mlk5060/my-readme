@@ -189,6 +189,12 @@ How do you implement this other than TDD? I advocate heavily for [Progressive De
 - [Test all the f\*\*king time](https://www.youtube.com/watch?v=iwUR0kOVNs8)
 
 - [Write tests. Not too many. Mostly integration](https://kentcdodds.com/blog/write-tests)
+	
+	- There's no magic code coverage number, in fact, I think we should forget about code coverage metrics. The number of tests should somewhat equal as many features as the thing you're building/maintaining has.
+
+	- Write integration tests first. If there's really a need to test a single function in isolation then do that after the integration tests. Most of the time though, I've found that I don't need single function tests if I've written intrgeation tests.
+
+	- Integration tests are easier to understand (for me any way) since they interact with the API at the level I would if I were using the thing in earnest! 
 
 ## Engineers I Admire
 
@@ -243,6 +249,8 @@ Here's some tools that I always make use of if I'm engineering on a machine (and
 
 - [oh-my-zsh](https://ohmyz.sh/)
 - [Spock](https://spockframework.org/)
+- [Testcontainers](https://www.testcontainers.org/)
+- [Cookiecutter](https://cookiecutter.readthedocs.io/en/1.7.2/README.html)
 - [Spring Boot](https://spring.io/projects/spring-boot)
 - [SDKMAN](https://sdkman.io/)
 
