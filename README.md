@@ -224,6 +224,25 @@ Dr Grieler's advice on code reviews has been invaluable to me and has helped me 
 
 :warning: Under construction! :warning:
 
+## Engineering Topics on My Radar
+
+Stuff I'm looking to research further:
+
+- [Green Computing](https://www.techtarget.com/searchdatacenter/definition/green-computing)
+- [SPACE framework](https://www.infoq.com/news/2021/03/space-developer-productivity/)
+- [Pulumi](https://www.pulumi.com/docs/get-started/)
+
+## Engineering Tools I Love Using
+
+Here's some tools that I always make use of if I'm engineering on a machine (and provided I have the rights to install this stuff :joy:). I hope they help you out too :smile:
+
+- [oh-my-zsh](https://ohmyz.sh/)
+- [Spock](https://spockframework.org/)
+- [Testcontainers](https://www.testcontainers.org/)
+- [Cookiecutter](https://cookiecutter.readthedocs.io/en/1.7.2/README.html)
+- [Spring Boot](https://spring.io/projects/spring-boot)
+- [SDKMAN](https://sdkman.io/)
+
 ## Engineering Books
 
 Admittedly, I don't read many books nowadays since having a small child takes up a lot of my spare time (amongst trying to exercise, spend time with my wife, do household chores, work etc)! Instead, I tend to read Tweets from prolific engineers, read internet articles by them, watch videos etc. However, I want to try and hold myself accountable, let you see what I like, and make some recommendations since these books have absolutely helped me become a better engineer. So here's a little section on engineering books :smile: You may be surprised that I don't mention certain books here, but there are good reasons[^3] :smiling_imp:
@@ -242,17 +261,6 @@ Admittedly, I don't read many books nowadays since having a small child takes up
 ### Incoming!
 
 :warning: Under construction! :warning:
-
-## Engineering Tools I Love Using
-
-Here's some tools that I always make use of if I'm engineering on a machine (and provided I have the rights to install this stuff :joy:). I hope they help you out too :smile:
-
-- [oh-my-zsh](https://ohmyz.sh/)
-- [Spock](https://spockframework.org/)
-- [Testcontainers](https://www.testcontainers.org/)
-- [Cookiecutter](https://cookiecutter.readthedocs.io/en/1.7.2/README.html)
-- [Spring Boot](https://spring.io/projects/spring-boot)
-- [SDKMAN](https://sdkman.io/)
 
 [^1]: For my sins I worked for 4 years on a PhD and embarked on a post-doctoral degree, with the aim of becoming a professor someday!
 [^2]: I am very much a nerd when it comes to software engineering and I love listening to podcasts, talks etc. and reading about how we can do it better. The creators of that content are generally people who were involved in designing XP, so I guess that's where this serendipity came from?!
